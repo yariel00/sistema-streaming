@@ -1,15 +1,8 @@
 # Sistema de Gestión de Streaming — GoStream
 
-**Materia:** Programación Orientada a Objetos
-**Carrera:** [COMPLETAR: Carrera]
-**Institución:** [COMPLETAR: Institución]
-**Integrantes del grupo:**
-- [COMPLETAR: Nombre completo 1]
-- [COMPLETAR: Nombre completo 2 (si aplica)]
-
-**Fecha:** [COMPLETAR: dd/mm/aaaa]
-
----
+PROGAMACIÓN ORIENTADA A OBJETOS
+Estudiante: Orozco Aguilar Yariel Jarem
+Fecha: 22/08/2026
 
 ## Objetivo del programa
 
