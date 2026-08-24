@@ -1,8 +1,8 @@
 # Sistema de Gestión de Streaming — GoStream
 
-PROGAMACIÓN ORIENTADA A OBJETOS
-Estudiante: Orozco Aguilar Yariel Jarem
-Fecha: 22/08/2026
+# PROGAMACIÓN ORIENTADA A OBJETOS
+# Estudiante: Orozco Aguilar Yariel Jarem
+# Fecha: 22/08/2026
 
 ## Objetivo del programa
 
